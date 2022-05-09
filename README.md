@@ -1,4 +1,4 @@
-# Utilizando useContext com typescript
+# Utilizando Redux com typescript
 
 Neste video/projeto eu exemplifiquei a utilização do Redux + typescript  com React!
 
